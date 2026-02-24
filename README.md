@@ -1,2 +1,2 @@
-# Amazon-App-Project-
-Shopping Project
+# Advanced Calculator-App-Project-
+Advanced Calculator Project
